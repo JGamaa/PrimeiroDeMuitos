@@ -1,5 +1,4 @@
-
-
+//DESAFIO CLASSIFICADOR DE NIVEL DE HEROI
 let Nome = "JGamaa"
 let Xp = 10001
 let Niveis = ["Ferro", "Bronze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"]
